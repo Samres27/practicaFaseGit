@@ -1,1 +1,3 @@
 segundo dia usando git, hoy vamos a hacer 3 comits y una nueva rama 
+esta linea es solo para la rama1
+
