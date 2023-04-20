@@ -1,3 +1,4 @@
 el dia de hoy vamos a subir nuestra rama a github para administar practica 
 los comando con repositorios remotos
 
+subi todas las ramas con git push --all
