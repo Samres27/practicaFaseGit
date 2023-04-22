@@ -25,6 +25,14 @@ public class contador{
         return cant;
 
     }
+    public static int multiplicar(int multiplando, int multiplicador){
+        int total=0;
+        for(int i=0;i<multiplicador;i++){
+            total+=multiplando;
+        }
+        return total;
+
+    }
 
 
 }
