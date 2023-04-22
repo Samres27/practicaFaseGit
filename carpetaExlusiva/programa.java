@@ -1,6 +1,6 @@
 public class contador{
 
-    public static void main(String[] abc){
+    public static void main (String[] abc){
         int cant =sumame(3,2);
         int result=dividir(cant,3); 
         System.out.print(cant+"  "+result);
@@ -15,10 +15,13 @@ public class contador{
     }
     public  static int dividir(int total, int sobre){
         int cant =0;
-        while(total>=sobre){
-            total-=sobre;
-            cant++;
+        if(sobre>0){    
+            while(total>=sobre){
+                total-=sobre;
+                cant++;
+            }
         }
+
         return cant;
 
     }
