@@ -1,0 +1,6 @@
+el dia de hoy se practicara como hacer buens practicas usandio:
+
+fix: cuando se solucione algun bug
+feat: nueva funcionalidad
+BREAKING CHANGE: marca una version mayor que indica que la version va a terner cambios bastantes importantes
+estos son los mas importantes y conforme el proyecto se puede llegar a utilizar otros como "feat:build:chore:ci:docs:style:refactor:perf:test:"
