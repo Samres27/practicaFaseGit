@@ -1,0 +1,13 @@
+el plan de hoy es practicar todos los comandos que se
+git log
+git add
+git status
+git pull
+git clone
+git commit
+git clean
+git push
+git branch
+git checkout
+git merge
+
